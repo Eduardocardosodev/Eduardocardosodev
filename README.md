@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Eduardo Cardoso, desenvolvedor Front-end!
 
-- 🔭 Procurando emprego em Front-end
-- 🌱 Estudando JavaScript
-- ⚡ Fato engraçado: Eu estudo todos os dias, pois amo programação
+- 🔭 I'm looking for a work in developer Front-end (Eu estou Procurando emprego em Front-end)
+- 🌱 I'm learning JavaScript (Eu estou estudando JavaScript)
+- ⚡ Fun fact: I study everyday, because i love programming (Fato engraçado: Eu estudo todos os dias, pois amo programação)
 
 <div align="center">
   <a href="https://github.com/Eduardocardosodev">

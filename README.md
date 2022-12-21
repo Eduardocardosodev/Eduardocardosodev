@@ -1,4 +1,4 @@
-### Hello! I'm Eduardo Cardoso, Front-end developer!
+### Hello! I'm Eduardo Cardoso, Full-Stack developer!
 
 - 🔭 I'm looking for a work in Full-Stack Developer (Eu estou Procurando emprego em Desenvolvedor Full-Stack)
 - 🌱 I'm learning JavaScript (Eu estou estudando JavaScript)
